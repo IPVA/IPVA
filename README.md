@@ -41,11 +41,6 @@ Estou em busca da minha primeira oportunidade profissional como:
 - 💻 Desenvolvedor Júnior
 - 🌱 Trainee em tecnologia
 
-## 📫 Contato
-
-- 📧 Email: [ivanpereira345@gmail.com](mailto:ivanpereira345@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ivan-pereira](https://www.linkedin.com/in/ivan-pereira-6b6736297/)
-
 ---
 
 ⭐️ Sempre em busca de aprendizado e crescimento profissional!
