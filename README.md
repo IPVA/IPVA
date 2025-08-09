@@ -2,7 +2,7 @@
 
 ##  Hi!
 
-Desenvolvedor em formação com foco em Java, buscando oportunidades para iniciar minha carreira na área de tecnologia.
+Desenvolvedor em formação, buscando oportunidades para iniciar minha carreira na área de tecnologia.
 
 ##  Sobre mim
 
